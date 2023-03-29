@@ -1,1 +1,1 @@
-# bgs-optimiser-trigger
+# bgs-optimizer-trigger
